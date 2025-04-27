@@ -276,6 +276,5 @@ def process_video(video_path, output_folder, output_video_path):
 
 
 # Example Usage:
-process_video(r"E:\Stream_Censor\DeepErase-X\assets\output_video.mp4", r"E:\Stream_Censor\DeepErase-X\testing_output",
-              r"/DeepErase-X/assets/testing_output\final_video.mp4")
-# process_image(r"E:\Stream_Censor\DeepErase-X\testing_data\example_img.jpg", r"E:\Stream_Censor\DeepErase-X\testing_output")
+process_video(r"E:\Stream_Censor\DeepErase-X\assets\testing_data\output_video.mp4", r"E:\Stream_Censor\DeepErase-X\testing_output", r"/DeepErase-X/assets/testing_output\final_video.mp4")
+# process_image(r"E:\Stream_Censor\DeepErase-X\assets\testing_output\detected_frames\logo_detected_160.jpg", r"E:\Stream_Censor\DeepErase-X\assets\testing_output")
