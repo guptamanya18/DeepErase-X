@@ -1,7 +1,4 @@
-Of course!  
-I'll create a **professional GitHub README** for your project "**VisEraseNet**" based on the text you shared.
 
-Here’s a complete, polished `README.md` draft you can directly use or tweak:
 
 ---
 
